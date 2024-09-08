@@ -6,6 +6,10 @@
 
 **EasiGov** is a versatile platform based on [Verba](https://github.com/weaviate/Verba) that simplifies access to government services and local information using **AI** and **Retrieval-Augmented Generation (RAG)** technology. It transforms complex government language into plain, user-friendly content, making essential services more accessible to all citizens, including people with disabilities, residents, and visitors. EasiGov promotes civic engagement, transparency, and local service discovery, ensuring that government resources are clear, personalized, and easy to navigate.
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gvUX-KCOWYc" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ## Key Features:
 
 ### 1. AI-powered Service Discovery:
@@ -32,6 +36,7 @@
 ### 8. Flexible Deployment:
 - EasiGov can be deployed on local government websites or used on personal devices, providing flexible access to government services and information based on location.
 
+---
 
 ![Alt text](img/01.png)
 ![Alt text](img/02.png)
@@ -41,6 +46,8 @@
 ![Alt text](img/06.png)
 ![Alt text](img/07.png)
 ![Alt text](img/08.png)
+
+---
 
 ### What If There’s More Time?
 
