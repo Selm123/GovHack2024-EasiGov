@@ -4,7 +4,7 @@
 
 
 
-**EasiGov** is a versatile platform that simplifies access to government services and local information using **AI** and **Retrieval-Augmented Generation (RAG)** technology. It transforms complex government language into plain, user-friendly content, making essential services more accessible to all citizens, including people with disabilities, residents, and visitors. EasiGov promotes civic engagement, transparency, and local service discovery, ensuring that government resources are clear, personalized, and easy to navigate.
+**EasiGov** is a versatile platform based on [Verba](https://github.com/weaviate/Verba) that simplifies access to government services and local information using **AI** and **Retrieval-Augmented Generation (RAG)** technology. It transforms complex government language into plain, user-friendly content, making essential services more accessible to all citizens, including people with disabilities, residents, and visitors. EasiGov promotes civic engagement, transparency, and local service discovery, ensuring that government resources are clear, personalized, and easy to navigate.
 
 ## Key Features:
 
@@ -33,8 +33,6 @@
 - EasiGov can be deployed on local government websites or used on personal devices, providing flexible access to government services and information based on location.
 
 
-
-
 ![Alt text](img/01.png)
 ![Alt text](img/02.png)
 ![Alt text](img/03.png)
@@ -43,3 +41,17 @@
 ![Alt text](img/06.png)
 ![Alt text](img/07.png)
 ![Alt text](img/08.png)
+
+### What If There’s More Time?
+
+If we had more time to continue developing **EasiGov**, we could implement several exciting enhancements to make the platform even more powerful and user-friendly:
+
+- **Quicker Response Speed**: By optimizing the AI algorithms and backend architecture, we could significantly reduce response times, ensuring users get the information they need instantly, even when dealing with complex government datasets.
+
+- **Mobile App Development**: To expand accessibility, we would build a dedicated **mobile app**, allowing users to access local services and government information on-the-go, ensuring seamless integration with both Android and iOS platforms.
+
+- **Advanced Personalization**: With more time, we could integrate deeper levels of customization based on user preferences, location, and interaction history, making EasiGov a truly personalized experience for each citizen.
+
+- **Multilingual Support**: Expanding the platform to support multiple languages would ensure that non-native speakers can access government services just as easily, further broadening EasiGov's inclusivity.
+
+These improvements would make **EasiGov** faster, more versatile, and accessible to a broader audience, ensuring that every citizen has quick and easy access to essential government services.
